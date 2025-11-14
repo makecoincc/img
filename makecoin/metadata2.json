@@ -1,0 +1,12 @@
+{
+    "name": "OPOS",
+    "symbol": "OPOS",
+    "description": "Only Possible On Solana",
+    "image": "https://img.makecoin.cc/1inch.png",
+    "attributes": [
+      {
+        "trait_type": "Item",
+        "value": "Climate"
+      }
+    ]
+  }
